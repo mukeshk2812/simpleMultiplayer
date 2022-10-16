@@ -28,8 +28,8 @@ h5 {
 }
 @media (min-width: 450px) {
   .tic-tac-toe {
-    height: 500px;
-    width: 500px;
+    height: 430px;
+    width: 430px;
   }
 }
 .tic-tac-toe input[type="radio"] {
