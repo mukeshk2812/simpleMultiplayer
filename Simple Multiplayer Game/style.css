@@ -21,7 +21,7 @@ h5 {
   overflow: hidden;
   margin: 50px auto 30px auto;
   position: relative;
-  width: 300px;
+  width: 400px;
 }
 @media (min-width: 450px) {
   .tic-tac-toe {
