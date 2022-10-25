@@ -1,8 +1,5 @@
 @charset "UTF-8";
-/* Variables
--------------------------------------------------------------- */
-/* Body and Notice styling
--------------------------------------------------------------- */
+
 body {
   color: #b6b5ca;
   font-family: 'Arial', sans-serif;
@@ -134,7 +131,7 @@ h5 {
     left: 300px;
   }
   .tic-tac-toe input[type="radio"].center + label {
-    top: 150px;
+    top: 160px;
   }
   .tic-tac-toe input[type="radio"].bottom + label {
     top: 300px;
